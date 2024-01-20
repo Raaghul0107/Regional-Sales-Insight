@@ -24,4 +24,4 @@ Filter by Date Range: Interactive date filter from January 1, 2019, to December 
 https://www.kaggle.com/datasets/danwekoyake/sales-export-2019-2020csv
 
 ## Tableau Dashboard link
-https://public.tableau.com/views/RegionalSalesinsight/RegionSalesInsight?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/RegionalSalesinsight/RegionSalesInsight?:language=en-US&:display_count=n&:origin=viz_share_link  (Image also included)
