@@ -1,7 +1,7 @@
 # Regional Sales Insights Dashboard
 
 ## Project Overview
-This Tableau dashboard provides a comprehensive view of sales insights for an e-commerce company. It is designed to help stakeholders understand sales performance, profitability, and customer behavior across different regions.
+This Tableau dashboard provides a comprehensive view of sales insights for an e-commerce export company. It is designed to help stakeholders understand sales performance, profitability, and customer behavior across different regions.
 
 ## Features
 Sales by Region: Visualize the sales distribution across various regions.
